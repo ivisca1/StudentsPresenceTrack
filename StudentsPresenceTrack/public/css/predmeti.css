@@ -1,0 +1,36 @@
+#meni{
+    background-color: #f2f2f2;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    position: sticky;
+    top: 0;
+    border-style: groove;
+}
+
+#lista{
+    width: 90%;
+    margin-top: 10px;
+}
+
+#logout{
+    width: 10%;
+}
+
+#dugme {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    position: relative;
+    margin: 5px;
+}
+
+#tabela{
+    margin: 10px;
+}
+
+.predmeti{
+    padding-left: 8px;
+}
